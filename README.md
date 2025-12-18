@@ -4,13 +4,15 @@ This is Christo Tomy's report and accompanying materials on the topic of bike re
 
 # Multiclass Classification of Bike-Sharing Demand in Seoul
 
-## Project Overview
+# Project Overview
+
 This project investigates whether hourly bike rental demand in Seoul can be effectively classified into multiple demand levels using weather, temporal, and calendar-based predictors. Rather than predicting exact rental counts, the problem is formulated as a multiclass classification task, categorising demand into low, medium, and high levels to support operational decision-making in bike sharing systems.
 
 
 ---
 
-## Dataset
+# Dataset
+
 The analysis is based on the Seoul Bike Sharing Demand dataset, which contains hourly records of bike rental activity along with associated environmental and temporal variables.
 
 - Observations: ~8,700 hourly records  
@@ -21,7 +23,8 @@ The dataset was obtained from a publicly available machine learning repository a
 
 ---
 
-## Methodology
+# Methodology
+
 The modelling pipeline follows standard best practices in applied machine learning:
 
 1. Data preprocessing
@@ -48,8 +51,9 @@ The modelling pipeline follows standard best practices in applied machine learni
 
 ---
 
- Results Summary
-All models achieved predictive performance substantially above the no-information baseline. The random forest classifier demonstrated the highest overall accuracy and the most balanced performance across demand levels. The neural network improved upon the GLM but did not outperform the randomorest, highlighting the effectiveness of ensemble methods for structured tabular data.
+# Results Summary
+
+All models achieved predictive performance substantially above the baseline of no information. The random forest classifier demonstrated the highest overall accuracy and the most balanced performance across demand levels. The neural network improved upon the GLM but did not outperform the random forest, highlighting the effectiveness of ensemble methods for structured tabular data.
 
 ---
 

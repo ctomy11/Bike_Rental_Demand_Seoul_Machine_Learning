@@ -1,5 +1,5 @@
 # Bike_Rental_Demand_Seoul_Machine_Learning
-This is Christo Tomy's report and accompanying materials on the topic of bike rental demand in Seoul, and if it can be accurately classified into demand categories using weather, temporal and calendar related features.
+This is the report and accompanying materials on the topic of bike rental demand in Seoul, and if it can be accurately classified into demand categories using weather, temporal and calendar related features.
 
 
 # Multiclass Classification of Bike-Sharing Demand in Seoul

@@ -1,4 +1,4 @@
-# Bike_Rental_Demand_Seoul_Machine_Learning
+# Bike Rental Demand Seoul Machine Learning
 This is the report and accompanying materials on the topic of bike rental demand in Seoul, and if it can be accurately classified into demand categories using weather, temporal and calendar related features.
 
 
